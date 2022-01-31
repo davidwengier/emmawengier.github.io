@@ -86,3 +86,5 @@ exclude:
   - README.md
   - CNAME
   - .vscode
+
+theme: jekyll-theme-cayman
