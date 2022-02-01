@@ -16,7 +16,8 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Things"
-      url: "/legal
+      url: "/legal"
+      
 en-US:
   <<: *DEFAULT_EN
 en-CA:
