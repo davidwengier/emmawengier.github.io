@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Emma Wengier
     text: Welcome.
-    button: Tell Me More
+    button: About Me
     buttonlink: "#about"
 
   # services:
@@ -31,11 +31,11 @@ en: &DEFAULT_EN
   #       desc: "Your description here, full **Markdown** support"
   #       icon: fab fa-markdown
 
-  # portfolio:
-  #   title: "Portfolio"
-  #   text: "Lorem ipsum dolor sit amet consectetur."
-  #   section: portfolio
-  #   closebutton: "Close Project"
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
 
   # timeline:
   #   title: "Timeline"
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Lorem ipsum"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -153,8 +153,6 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      # - url: https://github.com/raviriley/agency-jekyll-theme
-      #   icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:
