@@ -23,7 +23,7 @@
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-BIRTHDAY-month">Birthday </label>
+	<label for="mce-BIRTHDAY-month">Birthday - I'll send you a sneaky suprise! </label>
 	<div class="datefield">
 		<span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
 		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
@@ -36,7 +36,7 @@
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_10887ae80b7661ec359e0a078_300ca88f1d" tabindex="-1" value=""></div>
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <input type="submit" value="MAKE IT HAPPEN!" name="subscribe" id="mc-embedded-subscribe" class="button">
                 <p class="brandingLogo"><a href="http://eepurl.com/h4kTjr" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
         </div>
