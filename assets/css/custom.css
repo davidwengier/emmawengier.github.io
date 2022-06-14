@@ -3,7 +3,19 @@
     background-color: black;
 }
 
-.intro-heading, .section-heading
+@media (min-width: 768px) 
 {
-    color: #a6a6a6;
+    header.masthead .intro-text 
+    {
+        padding-top: 120px;
+    }
+}
+
+header.masthead .intro-text {
+    padding-top: 75px;
+}
+
+section#contact .section-heading
+{
+    color: #000;
 }
