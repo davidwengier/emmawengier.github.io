@@ -15,7 +15,9 @@ en: &DEFAULT_EN
       section: about
     - title: "Contact"
       section: contact
-    - title: "Things"
+    - title: "Book Online"
+      url: "https://calendly.com/emma-wengier"
+    - # title: "Things"
       url: "/legal"
     - title: "Join Mailing list"
       url: "/mailinglist"
