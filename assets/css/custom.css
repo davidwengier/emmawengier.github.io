@@ -3,12 +3,7 @@
     background-color: black;
 }
 
-.intro-heading
+.intro-heading, .section-heading
 {
-    color: #134071;
-}
-
-#contact > .section-heading
-{
-    color: #134071;
+    color: #a6a6a6;
 }
