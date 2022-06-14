@@ -130,8 +130,8 @@ en: &DEFAULT_EN
   #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum"
+    title: "Contact Me"
+    #text: "Lorem ipsum"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
