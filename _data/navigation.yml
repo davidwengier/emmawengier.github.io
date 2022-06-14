@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: contact
     - title: "Things"
       url: "/legal"
+    - title: "Join Mailing list"
+      url: "/Mailing list"
       
 en-US:
   <<: *DEFAULT_EN
