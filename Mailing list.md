@@ -1,3 +1,6 @@
+![Emma!](/assets/img/me.png)
+
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -8,7 +11,7 @@
 <div id="mc_embed_signup">
 <form action="https://wengier.us1.list-manage.com/subscribe/post?u=10887ae80b7661ec359e0a078&amp;id=300ca88f1d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Pssst!  Want to become part of my community? You will receive a monthly email that will contain recipes or tips to help you build a healthy life!</h2>
+	<h2>Pssst!  Want to become part of my community?</h2> <P>You will receive a monthly email that will contain recipes or tips to help you build a healthy life!</P>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
