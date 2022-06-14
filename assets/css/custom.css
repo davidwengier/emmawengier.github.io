@@ -3,16 +3,16 @@
     background-color: black;
 }
 
+header.masthead .intro-text {
+    padding-top: 75px;
+}
+
 @media (min-width: 768px) 
 {
     header.masthead .intro-text 
     {
         padding-top: 120px;
     }
-}
-
-header.masthead .intro-text {
-    padding-top: 75px;
 }
 
 section#contact .section-heading
