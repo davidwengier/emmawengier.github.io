@@ -33,6 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
+    ![Emma!](/assets/img/logo_emmawengiernutrition.png)
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
